@@ -1,0 +1,8 @@
+langchain-community
+langchain-groq
+cassio
+PyPDF2
+sentence-transformers
+gradio
+python-dotenv
+datasets
